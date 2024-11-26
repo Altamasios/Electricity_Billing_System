@@ -1,4 +1,4 @@
-# Electricity Billing System
+Electricity Billing System
 This is a GUI made using Java Swing.
 It lets User perform multiple operations like:-
 
@@ -11,7 +11,7 @@ It lets User perform multiple operations like:-
 
 4- User can Generate Bill.
 
-## About Project:
+ About Project:
 This Java application was created using Intelli J .
 Additional library was added for the support of JDBC (Required to setup the connection between the Database and Java Application).
 It contains 9 different classes which works together to create a better user experience .
@@ -34,7 +34,7 @@ It contains 9 different classes which works together to create a better user exp
 
 ->Connection Setup class(JDBC - MySQL)
 
-## Database (MySQL)
+ Database (MySQL)
 Database for this Electricity Billing System contains 4 Tables
 
 
@@ -49,28 +49,28 @@ Database for this Electricity Billing System contains 4 Tables
 
 Java communicates with MySQL tables using JDBC which stands for Java Database Connectivity.
 
-## Screenshots:
+Screenshots:
 
-## Login
+Login
 
 <img src="https://github.com/Adarsh9616/Electricity_Billing_System/blob/master/ScreenShots/Login.JPG" width="400" height="300">
 
-## Main Page
+Main Page
 
 <img src="https://github.com/Adarsh9616/Electricity_Billing_System/blob/master/ScreenShots/Main.JPG" width="600" height="500">
 
-## Add Customer
+ Add Customer
 
 <img src="https://github.com/Adarsh9616/Electricity_Billing_System/blob/master/ScreenShots/AddC.JPG" width="500" height="500">
 
-## Calculate Bill
+ Calculate Bill
 
 <img src="https://github.com/Adarsh9616/Electricity_Billing_System/blob/master/ScreenShots/CalculateBill.JPG" width="500" height="500">
 
-## Details
+ Details
 
 <img src="https://github.com/Adarsh9616/Electricity_Billing_System/blob/master/ScreenShots/Details.JPG" width="800" height="300">
 
-## Generate Bill
+ Generate Bill
 
 <img src="https://github.com/Adarsh9616/Electricity_Billing_System/blob/master/ScreenShots/GenerateBill.JPG" width="400" height="700">
